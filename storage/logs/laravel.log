@@ -1,0 +1,4 @@
+[2026-05-23 07:05:26] local.ERROR: Trait "Maatwebsite\Excel\Concerns\Exportable" not found {"userId":1,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Maatwebsite\\Excel\\Concerns\\Exportable\" not found at D:/syarat kp/project kp/app/Exports/TransactionsExport.php:12)
+[stacktrace]
+#0 {main}
+"} 
